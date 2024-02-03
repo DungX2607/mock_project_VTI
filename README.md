@@ -1,6 +1,7 @@
 # Household Goods Store
 
 ## Các tính năng
+   ### Đăng ký, đăng nhập
    ### User/Customer: 
    - Xem danh sách sản phẩm
    - Filter sản phẩm theo tên, theo category
